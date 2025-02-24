@@ -9,8 +9,6 @@ This project implements a conversational AI chatbot using the `langchain_ollama`
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,7 +36,7 @@ pip install langchain_ollama langchain_core
 2. Run the script using python:
 
 ```bash
-python chatbot.py
+python main.py
 ```
 
 3. Interact with the chatbot through the command line. Type your questions and receive answers from the AI. Type 'exit' to quit the conversation.
